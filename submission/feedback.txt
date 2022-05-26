@@ -1,1 +1,19 @@
-Please provide your feedback for Infineon in this document.
+The fact that we had to do the whole procedure of an ML project made the challenge really
+interesting. As a team, we had already had participated in challenges where the data were
+handed to us, so the fact that we had to do the collection of data ourselves made it much
+more interesting as it made the challenge complete.
+
+The sensor was really easy to work with and we had no trouble collecting the data. Having
+said that, we faced a lot of trouble setting up the environment to collect them.
+
+The Linux drivers that recognise the devices ended up being problematic (even though
+the device was successfully connected, the drivers could not detect it and find the
+devices device_id) and due to the fact that we had no Windows PC available as a team, 
+we ended up losing a lot of time trying to find out what was wrong. As a result, 
+setting up the environment gave us a lot of trouble, but it all turned out great when 
+we created a Windows virtual machine.
+
+One thing that we will definitely do different next time is that we will strive to 
+make a working model faster so that we can test the hyperparameters and the data 
+collection techniques a lot more. Also, next time we will definitely make sure to 
+bring Windows PCs!
